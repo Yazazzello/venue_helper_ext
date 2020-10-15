@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Venue Helper</string>
+    <string name="title">Home</string>
+    <string name="no_results">No data to display</string>
+    <string name="search">Search</string>
+    <string name="venue">Venue</string>
+    <string name="network_error">Network Error</string>
+    <string name="rating">Rating: %.1f</string>
+</resources>
